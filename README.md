@@ -1,9 +1,8 @@
-
 ### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   I'm Kemal Tolga Bozkurt, Front-End Developer :computer: 
   </br>
   <div>
-  <a href="https://KTB.netlify.app/" target="_blank">
+  <a href="https://kemaltolga.netlify.app/" target="_blank">
 <kbd> <br> Personal Website <br> </kbd>
   </a>
   </div> 
@@ -12,13 +11,9 @@
  </p>
 </br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=KemalTB
-&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KemalTB
-&hide=TeX&layout=compact) </br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KemalTB
-.KemalTB
-)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=KemalTB&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KemalTB&hide=TeX&layout=compact) </br>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KemalTB.KemalTB)
 
 ## Skills
 
@@ -44,7 +39,7 @@
 ## Contact Me
 
 <p align="center">
-  <a href="https://KTB.netlify.app/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
+  <a href="https://kemaltolga.netlify.app/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
   <a href="mailto:ktkurt78@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="70" height="70"/></a>
   <a href="https://www.linkedin.com/in/ktb01/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
 </p>
@@ -53,16 +48,7 @@
   <img src="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" align="right" style="width:300px" />
  </p>
 <!--
-**KemalTB
-/KemalTB
-** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
+**KemalTB/KemalTB** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - :telescope: I'
 -->
-
-
-
-
-
-
-
